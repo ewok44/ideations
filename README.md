@@ -1,0 +1,2 @@
+# ideations
+Ideas, musings, etc.
